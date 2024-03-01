@@ -118,6 +118,10 @@ nav [class*="fa-"]:hover {
   background: var(--hotmag);
 }
 
+nav ul li .temporary-disable {
+  cursor: not-allowed;
+}
+
 /* intro */
 a {
   color: var(--magenta);
